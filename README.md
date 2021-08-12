@@ -1,2 +1,2 @@
-# listas-circulares
+# Listas Circulares
  Implementação da classe ListaCircular
